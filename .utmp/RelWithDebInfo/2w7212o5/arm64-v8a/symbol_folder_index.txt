@@ -1,0 +1,1 @@
+C:\Users\teres\Documents\Unity\Quizero2 - Kopie\schmattia-quizero2.0-0ac55d98df58\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\2w7212o5\obj\arm64-v8a
