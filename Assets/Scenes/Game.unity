@@ -654,7 +654,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1314550367837502952, guid: f74adb78f19c0f94da868bf97a723815, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 3316810821372525167, guid: f74adb78f19c0f94da868bf97a723815, type: 3}
       propertyPath: answer2
@@ -2034,7 +2034,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1314550367837502952, guid: f74adb78f19c0f94da868bf97a723815, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1814652767446380707, guid: f74adb78f19c0f94da868bf97a723815, type: 3}
       propertyPath: m_Color.b
