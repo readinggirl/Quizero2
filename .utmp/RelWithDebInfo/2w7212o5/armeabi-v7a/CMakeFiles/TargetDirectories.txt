@@ -1,5 +1,0 @@
-C:/Users/teres/Documents/Unity/Quizero2 - Kopie/schmattia-quizero2.0-0ac55d98df58/.utmp/RelWithDebInfo/2w7212o5/armeabi-v7a/CMakeFiles/edit_cache.dir
-C:/Users/teres/Documents/Unity/Quizero2 - Kopie/schmattia-quizero2.0-0ac55d98df58/.utmp/RelWithDebInfo/2w7212o5/armeabi-v7a/CMakeFiles/rebuild_cache.dir
-C:/Users/teres/Documents/Unity/Quizero2 - Kopie/schmattia-quizero2.0-0ac55d98df58/.utmp/RelWithDebInfo/2w7212o5/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
-C:/Users/teres/Documents/Unity/Quizero2 - Kopie/schmattia-quizero2.0-0ac55d98df58/.utmp/RelWithDebInfo/2w7212o5/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
-C:/Users/teres/Documents/Unity/Quizero2 - Kopie/schmattia-quizero2.0-0ac55d98df58/.utmp/RelWithDebInfo/2w7212o5/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir

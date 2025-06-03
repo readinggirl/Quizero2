@@ -1,1 +1,0 @@
-C:\Users\teres\Documents\Unity\Quizero2 - Kopie\schmattia-quizero2.0-0ac55d98df58\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\FramePacing\UnitySwappyWrapper.h
