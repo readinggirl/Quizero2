@@ -1,0 +1,44 @@
+[
+  {
+    "text": "In der Nähe einer Hundezone liegt eine Sportanlage, wo viele Spiele gespielt und Matches ausgetragen werden.\nZählt die Tennisplätze, die sich auf dem Gelände der WAT Landstraße Capricorns befinden.",
+    "choices": ["2","6","3","5"],
+    "correctAnswerIndex": 2,
+    "locationX": 100, Anton-Kuh-Weg 3
+    "locationY": 200
+  },
+{
+    "text": "An der Station Schlachthausgasse treffen sich U-Bahn, Straßenbahn und Buslinien, doch nur\ndiejenigen, die die richtigen Linien kennen, werden das richtige Schlüsselteilstück finden.\nWelche U-Bahn-, Straßenbahn- und Buslinien halten an der Station Schlachthausgasse und führen euch zum nächsten Hinweis? Jeweils werden nur die Zahlen gebraucht - bildet deren Summe!",
+    "choices": ["21","98","253","178"],  u3 77a 18 80a n75 = 253
+    "correctAnswerIndex": 3,
+    "locationX": 100, Schlachhausgasse U
+    "locationY": 200
+  }
+  {
+    "text": "In den alten Gemäuern der Universität Wien wird das Wissen über das Leben gelehrt. Findet\nheraus, welche Spezialisierung dort unterrichtet wird.\nDer Schlüssel zu eurem Erfolg liegt in der Anzahl der Buchstaben des Wortes.",
+    "choices": ["7","5","6","8"],  biology
+    "correctAnswerIndex": 1,
+    "locationX": 100, Djerassiplatz 1
+    "locationY": 200
+  }
+  {
+    "text": "Das Max-Perutz-Wall-Mural schmückt die Fassade eines Gebäudes, doch um das richtige\nSchlüsselteilstück zu finden, müsst ihr nicht das Kunstwerk betrachten, sondern die Fenster, die\ndie Fassade zieren.\nWie viele Fenster gibt es an der Fassade, auf der dieses beeindruckende Wandgemälde zu\nsehen ist?",
+    "choices": ["495","572","9","30"],  30 (kurze wand) 572 (lange wand) (1 loch = 3 fenster)
+    "correctAnswerIndex": 4,
+    "locationX": 100, Rennweg 95A
+    "locationY": 200
+  }
+  {
+    "text": "  ",
+    "choices": ["21","98","253","178"],  hinfällig, da nicht mehr vorhanden
+    "correctAnswerIndex": 3,
+    "locationX": 100, Karl-Farkas-Gasse 19
+    "locationY": 200
+  }
+  {
+    "text": "Am Portal des Viehmarktes St. Marx stehen zwei steinerne\nWächter, deren Beine fest in der Geschichte verwurzelt sind. Zählt die Beine, die sie zeigen, und\nenthüllt die Zahl, die euch das richtige Schlüsselteilstück bringt.\nWie viele Beine tragen die beiden Statuen insgesamt?",
+    "choices": ["8","4","12","16"],
+    "correctAnswerIndex": 4,
+    "locationX": 100, Viehmarktgasse 5-6
+    "locationY": 200
+  }
+]
