@@ -2,11 +2,17 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 
+[System.Serializable]
 public class Question
 {
-    public string Text { get; set; }
-    public List<String> Choices { get; set; }
-    public int CorrectAnswerIndex { get; set; }
-    public int LocationX { get; set; }
-    public int LocationY { get; set; }
+    public string text;
+    public string[] choices;
+    public string correctAnswerIndex;
+    public string locationX;
+    public string locationY;
+}
+
+[System.Serializable]
+public class QuestionList {
+    public Question[] questions;
 }
